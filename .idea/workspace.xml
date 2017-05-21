@@ -2,196 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd673281-a908-42bd-be07-2471c76bba44" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/blue_auto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/blue_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/blue_pager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/blue_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/bx_loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/gray_auto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/gray_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/gray_pager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/gray_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/green_auto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/green_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/green_pager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/green_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/orange_auto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/orange_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/orange_pager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/orange_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/purple_auto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/purple_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/purple_pager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/purple_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/red_auto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/red_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/red_pager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/red_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/yellow_auto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/yellow_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/yellow_pager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/images/yellow_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.csslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backstop.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/npm_clean.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_annotations/annotations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_layouts/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_macros/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_meta/_00-head.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_meta/_01-foot.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/filters/clean_class.filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/filters/clean_id.filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/filters/format_date.filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/filters/placeholder.filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/filters/safe_join.filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/filters/t.filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/filters/without.filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/functions/link.function.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/functions/path.function.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/_twig-components/tests/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/styleguide/css/styleguide-specific.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/styleguide/css/styleguide-specific.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/styleguide/custom-styleguide-specific.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/styleguide/js/domready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/styleguide/js/drupal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/styleguide/js/jquery.once.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/styleguide/js/styleguide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/bower.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/css/bx_styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/css/jquery.bxslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/js/flexibility.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/js/jquery.bxSlider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/js/jquery.cycle2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/bower/js/jquery.textfill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/_all.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/breakpoint.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/eyeglass-exports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/lib/breakpoint.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/sache.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/_breakpoint.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/_context.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/_helpers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/_legacy-settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/_no-query.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/_parsers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/_respond-to.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/_settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/_double.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/_query.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/_resolution.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/_single.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/_triple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/double/_default-pair.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/double/_default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/double/_double-string.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/resolution/_resolution.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/single/_default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/stylesheets/breakpoint/parsers/triple/_default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/.unit_tests.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/01_pixel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/02_pixel_to_em.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/03_feature_values.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/04_min_max.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/05_min_max_feature.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/06_multidemensional.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/07_basic_or.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/08_one_sided_feature.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/09_not.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/10_double_string.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/11_legacy_syntax.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/12_breakpoint_resolutions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/13_context_simple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/14_context_complex.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/15_no_query_fallback.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/16_media.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/17_breakpoint_function.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/18_pixel-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/19_pixel_to_em-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/20_feature_values-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/21_min_max-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/22_min_max_feature-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/23_multidemensional-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/24_basic_or-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/25_one_sided_feature-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/26_not-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/27_double_string-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/28_legacy_syntax-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/29_breakpoint_resolutions-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/30_context_simple-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/31_context_complex-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/32_no_query_fallback-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/33_media-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/34_breakpoint_function-memo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/controls/35_memoization.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/breakpoint/tests/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/gutenberg/_gutenberg-config.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/gutenberg/_gutenberg-mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/gutenberg/_gutenberg-reset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/gutenberg/_gutenberg-typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/gutenberg/_gutenberg.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/vendor/scss/jScrollPane/_jScrollPane.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/default.gulpfile.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts.list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/backstop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/bower/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/bower/clean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/bower/collect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/bower/libraries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/favicons/generate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/favicons/inject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/fonts/download.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/images/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/images/watch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/patternLab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/rename/rename.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/scripts/lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/scripts/watch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/serve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/styles/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/styles/clean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/styles/lint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/styles/validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp-tasks/styles/watch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/config/listeners.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/config/patternengines.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/core/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/core/server/router.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/core/src/PatternLab/Installer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/generator/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/generator/templates/_pattern.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/generator/templates/pattern.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/generator/templates/pattern.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/generator/templates/pattern.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-lab/generator/templates/pattern.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/customize.css" afterPath="$PROJECT_DIR$/sass/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about.jpg" afterPath="$PROJECT_DIR$/img/about.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.yml" afterPath="$PROJECT_DIR$/gulpfile.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/main.scss" afterPath="$PROJECT_DIR$/sass/main.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -206,9 +19,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="87" column="68" lean-forward="false" selection-start-line="87" selection-start-column="68" selection-end-line="87" selection-end-column="68" />
-              <folding />
+            <state relative-caret-position="440">
+              <caret line="32" column="51" lean-forward="false" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -226,8 +41,8 @@
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="251" column="10" lean-forward="false" selection-start-line="251" selection-start-column="10" selection-end-line="251" selection-end-column="10" />
+            <state relative-caret-position="270">
+              <caret line="78" column="21" lean-forward="false" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -237,12 +52,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>222222</find>
-      <find>f5</find>
-      <find>f5f5f5</find>
-      <find>h1</find>
-      <find>eee</find>
-      <find>sliding-u-l-r-l</find>
       <find>herobg</find>
       <find>tra</find>
       <find>transparent</find>
@@ -265,8 +74,14 @@
       <find>2em</find>
       <find>#carousel</find>
       <find>H2</find>
-      <find>eg</find>
       <find>say</find>
+      <find>display: -webkit-flex;</find>
+      <find>display: -ms-flexbox;</find>
+      <find>-webkit-box-align: center;</find>
+      <find>-webkit-align-items: center;</find>
+      <find>-ms-flex-align: center;</find>
+      <find>eg</find>
+      <find>grey</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -488,12 +303,12 @@
       <workItem from="1495157051166" duration="3375000" />
       <workItem from="1495162529651" duration="375000" />
       <workItem from="1495384581898" duration="618000" />
-      <workItem from="1495387390477" duration="6225000" />
+      <workItem from="1495387390477" duration="9088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15739000" />
+    <option name="totallyTimeSpent" value="18602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
@@ -503,6 +318,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -514,7 +330,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -533,7 +348,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1920">
           <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -565,7 +382,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -573,7 +392,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -581,7 +402,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="940">
           <caret line="47" column="75" lean-forward="false" selection-start-line="47" selection-start-column="75" selection-end-line="47" selection-end-column="75" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -596,7 +419,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -718,17 +543,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="251" column="10" lean-forward="false" selection-start-line="251" selection-start-column="10" selection-end-line="251" selection-end-column="10" />
+        <state relative-caret-position="270">
+          <caret line="78" column="21" lean-forward="false" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="87" column="68" lean-forward="false" selection-start-line="87" selection-start-column="68" selection-end-line="87" selection-end-column="68" />
-          <folding />
+        <state relative-caret-position="440">
+          <caret line="32" column="51" lean-forward="false" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
