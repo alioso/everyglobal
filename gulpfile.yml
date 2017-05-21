@@ -24,7 +24,7 @@ bower:
   src: "components/vendor/bower/raw"
   dest: "components/vendor/bower"
 css:
-  src: ["components/**/*.scss"]
+  src: ["sass/*.scss"]
   dest: "css"
   buildSourceMaps: false
   lint:
@@ -53,7 +53,7 @@ drush:
 browserSync:
   site:
     enabled: true
-    proxy: "http://zivtechd8.local.zivtech.com"
+    proxy: "http://everyglobal.local.zivtech.com"
     port: 3001
     ui:
       port: 3002

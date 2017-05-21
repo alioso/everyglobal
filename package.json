@@ -71,7 +71,7 @@
   },
   "main": "gulpfile.js",
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "author": "Alban B <albanbailly@gmail.com>",
   "contributors": [

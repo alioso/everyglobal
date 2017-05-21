@@ -40,7 +40,7 @@
 
   gulp.task('default', ['watch']);
   gulp.task('watch', function(cb) {
-    runSequence('pl:build', ['serve', 'styles:watch', 'scripts:watch', 'pl:watch']);
+    runSequence(['serve', 'styles:watch', 'scripts:watch']);
   });
   gulp.task('build', function(cb) {
     runSequence('styles:build', 'pl:build', 'favicons:build', 'images:build');

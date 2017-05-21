@@ -1,0 +1,8 @@
+jquery:
+  js:
+    components/vendor/bower/js/jquery.js:
+      minified: false
+jquerytextfill:
+  js:
+    components/vendor/bower/js/jquery.textfill.js:
+      minified: false
