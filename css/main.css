@@ -619,8 +619,9 @@ nav a:hover {
     width: auto;
   }
 
-  a.logo {
-    display: none;
+  a.logo img {
+    max-width: 200px;
+    margin-bottom: 20px;
   }
 
   #thoughts {
@@ -634,8 +635,9 @@ nav a:hover {
   }
 
   #thoughts h2 {
-    font-weight: 500 !important;
+    font-weight: 700 !important;
     color: #000;
+    font-size: 1.4em;
   }
 
   #greybg {
@@ -661,7 +663,7 @@ nav a:hover {
 @media (max-width: 420px) {
 
   #hero {
-    padding-top: 7em;
+    padding-top: 6em;
     padding-bottom: 8em;
   }
 }
