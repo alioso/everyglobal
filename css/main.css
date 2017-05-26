@@ -624,10 +624,11 @@ nav a:hover {
   }
 
   #thoughts {
-    padding-top: 0;
+    padding-top: 3em;
     padding-left: 2em;
     padding-right: 2em;
     background: #fff url(../img/build-2.png) no-repeat -84px top;
+    border-top: 10px solid #6E4920;
     color: #000;
     font-weight: 400;
   }
@@ -643,7 +644,8 @@ nav a:hover {
 
   #hero {
     padding-left: 20px;
-    padding-top: 0;
+    padding-top: 1em;
+    padding-bottom: 2em;
     background: url(../img/m-bck.png) no-repeat -150px center;
   }
 
@@ -654,5 +656,12 @@ nav a:hover {
 
   #hero > .flexbox-container-mid {
     padding-top: 25px;
+  }
+}
+@media (max-width: 420px) {
+
+  #hero {
+    padding-top: 7em;
+    padding-bottom: 8em;
   }
 }
