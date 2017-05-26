@@ -28,7 +28,6 @@ a:visited {
   border: 2px solid #ddd;
   border-bottom: 0;
   padding: 10px 20px 8px 20px;
-  padding-bottom: 2px;
   text-transform: uppercase;
   color: #ddd;
   font-weight: 400;
@@ -351,6 +350,7 @@ nav a:hover {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
+  max-width: 50% !important;
 }
 
 #contact {
@@ -557,6 +557,10 @@ nav a:hover {
     transition: background .4s linear;
   }
 
+  #door {
+    padding-bottom: 0;
+  }
+
   #descriptor {
     text-align: right;
     padding-left: 18%;
@@ -592,7 +596,7 @@ nav a:hover {
   #greybg {
     position: absolute;
     left: 0;
-    top: 0;
+    top: -50px;
     width: 80VW;
     height: 100%;
     background: #fff;
