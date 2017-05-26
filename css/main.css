@@ -85,7 +85,7 @@ h1 {
 }
 
 #door {
-  background: url("../img/contact.jpg") no-repeat right top;
+  background: url("../img/contact.jpg") no-repeat 60% top;
   background-size: cover;
   padding-top: 15%;
   padding-bottom: 15%;
@@ -350,7 +350,7 @@ nav a:hover {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
-  max-width: 50% !important;
+  max-width: 50%;
 }
 
 #contact {
@@ -424,7 +424,7 @@ nav a:hover {
       align-self: flex-end;
 }
 
-/******************* Desktop Breakpoint Styling ***************/
+/******************* mobile specific ***************/
 /************************************************************/
 /************************************************************/
 /************************************************************/
@@ -503,11 +503,12 @@ nav a:hover {
 
   #carousel {
     height: 450px;
-    background-image: url("../img/about.jpg");
+    background-image: url("../img/build-2.jpg");
     background-position: center;
-    -webkit-transform: translateY(175px);
-    -ms-transform: translateY(175px);
-    transform: translateY(175px);
+    background-repeat: no-repeat;
+    -webkit-transform: translateY(75px);
+    -ms-transform: translateY(75px);
+    transform: translateY(75px);
   }
 
   #herobg {
@@ -559,6 +560,7 @@ nav a:hover {
 
   #door {
     padding-bottom: 0;
+    background-position: 50% top;
   }
 
   #descriptor {
@@ -609,5 +611,48 @@ nav a:hover {
     -webkit-transform: translateY(50px);
     -ms-transform: translateY(50px);
     transform: translateY(50px);
+  }
+}
+@media (max-width: 768px) {
+
+  .grid .col-md-2 {
+    width: auto;
+  }
+
+  a.logo {
+    display: none;
+  }
+
+  #thoughts {
+    padding-top: 0;
+    padding-left: 2em;
+    padding-right: 2em;
+    background: #fff url(../img/build-2.png) no-repeat -84px top;
+    color: #000;
+    font-weight: 400;
+  }
+
+  #thoughts h2 {
+    font-weight: 500 !important;
+    color: #000;
+  }
+
+  #greybg {
+    background: transparent;
+  }
+
+  #hero {
+    padding-left: 20px;
+    padding-top: 0;
+    background: url(../img/m-bck.png) no-repeat -150px center;
+  }
+
+  #hero h1 {
+    color: #fff;
+    font-size: 2.5em;
+  }
+
+  #hero > .flexbox-container-mid {
+    padding-top: 25px;
   }
 }

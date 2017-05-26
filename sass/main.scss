@@ -83,7 +83,7 @@ h1 {
 }
 
 #door {
-  background: url('../img/contact.jpg') no-repeat right top;
+  background: url('../img/contact.jpg') no-repeat 60% top;
   background-size: cover;
 
   padding-top: 15%;
@@ -369,9 +369,10 @@ nav a:hover {
 
   #carousel {
     height: 450px;
-    background-image: url("../img/about.jpg");
+    background-image: url("../img/build-2.jpg");
     background-position: center;
-    transform: translateY(175px);
+    background-repeat: no-repeat;
+    transform: translateY(75px);
   }
 
   #herobg {
@@ -406,6 +407,7 @@ nav a:hover {
 
   #door {
     padding-bottom: 0;
+    background-position: 50% top;
   }
 
   #descriptor {
@@ -451,7 +453,7 @@ nav a:hover {
   padding-top: 15%;
   padding-bottom: 15%;
   align-items: flex-start;
-  max-width: 50% !important;
+  max-width: 50%;
 }
 
 #contact {
@@ -514,13 +516,59 @@ nav a:hover {
   align-self: flex-end;
 }
 
-/******************* Desktop Breakpoint Styling ***************/
+/******************* mobile specific ***************/
 /************************************************************/
 /************************************************************/
 /************************************************************/
 /************************************************************/
 /************************************************************/
 
-@media (min-width: 1200px) {
+@media (max-width: 768px) {
+
+  .grid {
+
+    .col-md-2 {
+      width: auto;
+    }
+  }
+
+  a.logo {
+    display: none;
+  }
+
+  #thoughts {
+    padding-top: 0;
+    padding-left: 2em;
+    padding-right: 2em;
+    background: #fff url(../img/build-2.png) no-repeat -84px top;
+
+    color: #000;
+    font-weight: 400;
+
+    h2 {
+      font-weight: 500 !important;
+      color: #000;
+    }
+  }
+
+  #greybg {
+    background: transparent;
+  }
+
+  #hero {
+    padding-left: 20px;
+    padding-top: 0;
+    background: url(../img/m-bck.png) no-repeat -150px center;
+
+    h1 {
+      color: #fff;
+      font-size: 2.5em;
+    }
+
+    > .flexbox-container-mid {
+      //background: url(../img/eg-sm.png) no-repeat right center;
+      padding-top: 25px;
+    }
+  }
 
 }
